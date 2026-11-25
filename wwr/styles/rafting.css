@@ -136,7 +136,9 @@ footer p {
 
 .history img {
     width: 100%;
+    max-width: 250px;
     height: auto;
+    justify-self: center;
 }
 /* Adventures Section */
 .adventures {
