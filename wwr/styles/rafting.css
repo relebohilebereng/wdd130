@@ -135,9 +135,9 @@ footer p {
 }
 
 .history img {
-    width: 150px;
-    max-width: 120px;
-    height: 90px;
+    width: 120px;
+    height: 70px;
+    object-fit: cover;
     justify-self: center;
 }
 /* Adventures Section */
@@ -160,6 +160,7 @@ footer p {
 .adventures img {
     width: 100%;
     height: auto;
+    object-fit: cover;
 }
 
 .adventures figcaption {
