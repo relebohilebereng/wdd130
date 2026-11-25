@@ -135,9 +135,9 @@ footer p {
 }
 
 .history img {
-    width: 100%;
-    max-width: 150px;
-    height: auto;
+    width: 150px;
+    max-width: 120px;
+    height: cover;
     justify-self: center;
 }
 /* Adventures Section */
